@@ -1,0 +1,13 @@
+src/
+ ├── model/
+ │     ├── User.java
+ │     ├── Artwork.java
+ │     └── Gallery.java
+ ├── dao/
+ │     ├── UserDAO.java
+ │     ├── ArtworkDAO.java
+ │     └── GalleryDAO.java
+ ├── service/
+ │     └── ExhibitionService.java
+ └── ui/
+       └── ArtExhibitionApp.java   ← (GUI + main method)
